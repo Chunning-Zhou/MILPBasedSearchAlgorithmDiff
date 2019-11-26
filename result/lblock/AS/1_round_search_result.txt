@@ -1,0 +1,6 @@
+search process:
+initialized: LB_empty
+[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+From all of above, we obtain an optimal objective value:0.
+time is 0 s.

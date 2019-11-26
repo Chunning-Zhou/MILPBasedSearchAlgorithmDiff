@@ -1,0 +1,11 @@
+search process:
+initialized: upperbound = max(8800, 8400) = 8400.
+initialized: LB_empty
+[ 283  683 1400 2283 3400 4483 5683 7600 7883    0    0    0    0    0    0
+    0    0    0    0    0]
+[ 566 1366 2400 3283 4366 4932 5732 7600 8166    0    0    0    0    0    0
+    0    0    0    0    0]
+[  849  2049  3366  4766  5966  6815  8132  9532 10732     0     0     0
+     0     0     0     0     0     0     0     0]
+From all of above, we obtain an optimal objective value:8400.
+time is 32 s.

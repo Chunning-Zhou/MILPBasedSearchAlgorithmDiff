@@ -1,0 +1,11 @@
+search process:
+initialized: upperbound = max(683, 683) = 683.
+initialized: LB_empty
+[283 566   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
+   0   0]
+[ 566 1366    0    0    0    0    0    0    0    0    0    0    0    0    0
+    0    0    0    0    0]
+[ 849 2049    0    0    0    0    0    0    0    0    0    0    0    0    0
+    0    0    0    0    0]
+From all of above, we obtain an optimal objective value:683.
+time is 46 s.

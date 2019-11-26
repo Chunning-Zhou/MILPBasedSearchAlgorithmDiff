@@ -1,0 +1,7 @@
+search process:
+initialized: upperbound = max(62, 62) = 62.
+initialized: LB_empty
+[ 0  2  4  6  8 12 16 22 28 36 44 48 56 60  0  0  0  0  0  0  0  0  0]
+[ 2  4  6 10 14 20 26 32 38 46 54 60 64 70  0  0  0  0  0  0  0  0  0]
+From all of above, we obtain an optimal objective value:62.
+time is 847 s.

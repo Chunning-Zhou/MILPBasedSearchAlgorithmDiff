@@ -1,0 +1,11 @@
+search process:
+initialized: upperbound = max(15, 13) = 13.
+initialized: LB_empty
+[ 1  2  3  5  7 10 11  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0]
+[ 2  4  6  8 10 12 14  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0]
+[ 3  6  9 12 15 18 21  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0]
+From all of above, we obtain an optimal objective value:13.
+time is 114 s.

@@ -1,0 +1,7 @@
+search process:
+initialized: upperbound = max(9, 8) = 8.
+initialized: LB_empty
+[0 1 2 3 4 6 8 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[ 1  2  3  5  7 10 13  0  0  0  0  0  0  0  0  0  0  0  0  0]
+From all of above, we obtain an optimal objective value:8.
+time is 1 s.

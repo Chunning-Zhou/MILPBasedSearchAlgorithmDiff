@@ -1,0 +1,9 @@
+search process:
+initialized: upperbound = max(4, 4) = 4.
+initialized: LB_empty
+[2 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[4 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+[ 6 12  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+  0  0  0  0  0  0]
+From all of above, we obtain an optimal objective value:4.
+time is 1 s.
