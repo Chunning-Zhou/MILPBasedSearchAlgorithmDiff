@@ -1,7 +1,0 @@
-search process:
-initialized: upperbound = max(10, 8) = 8.
-initialized: LB_empty
-[0 2 4 6 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
-[ 2  4  6 10 14  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
-From all of above, we obtain an optimal objective value:8.
-time is 0 s.

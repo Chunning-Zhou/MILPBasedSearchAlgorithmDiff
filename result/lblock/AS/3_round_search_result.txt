@@ -1,7 +1,0 @@
-search process:
-initialized: upperbound = max(2, 2) = 2.
-initialized: LB_empty
-[0 1 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
-[1 2 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
-From all of above, we obtain an optimal objective value:2.
-time is 0 s.

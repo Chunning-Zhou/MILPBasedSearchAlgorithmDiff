@@ -1,7 +1,0 @@
-search process:
-initialized: upperbound = max(73, 72) = 72.
-initialized: LB_empty
-[ 0  2  4  6  8 12 16 22 28 36 44 48 56 62 66 70  0  0  0  0  0  0  0]
-[ 2  4  6 10 14 20 26 32 38 46 54 60 64 70 74 80  0  0  0  0  0  0  0]
-From all of above, we obtain an optimal objective value:72.
-time is 6001 s.

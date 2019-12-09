@@ -1,7 +1,0 @@
-search process:
-initialized: upperbound = max(16, 14) = 14.
-initialized: LB_empty
-[ 0  1  2  3  4  6  8 11 14  0  0  0  0  0  0  0  0  0  0  0]
-[ 1  2  3  5  7 10 13 16 19  0  0  0  0  0  0  0  0  0  0  0]
-From all of above, we obtain an optimal objective value:14.
-time is 1 s.

@@ -1,9 +1,0 @@
-search process:
-initialized: upperbound = max(5, 5) = 5.
-initialized: LB_empty
-[1 2 3 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
-[2 4 6 8 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
-[ 3  6  9 12  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
-  0  0  0]
-From all of above, we obtain an optimal objective value:5.
-time is 68 s.

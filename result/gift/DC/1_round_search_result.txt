@@ -1,9 +1,0 @@
-search process:
-initialized: LB_empty
-[0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
-[566   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
-   0   0]
-[849   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
-   0   0]
-From all of above, we obtain an optimal objective value:283.
-time is 0 s.
