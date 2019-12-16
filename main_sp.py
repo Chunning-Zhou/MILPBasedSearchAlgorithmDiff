@@ -419,7 +419,7 @@ if __name__ == "__main__":
 	search_round = cipher.get_search_round(goal)
 	time_all = []
 
-	
+	function.gen_filefolder(cipher.name,goal)
 	with open("result/"+cipher.name+"/"+goal+"/"+"solved_LBAS_model.txt", "w") as f:
 		f.write("models we solved:\n")
 	with open("result/"+cipher.name+"/"+goal+"/"+"solved_model.txt", "w") as f:

@@ -6,7 +6,20 @@ import math
 import copy
 import shutil
 
-	
+def gen_filefolder(cipher_name,goal):
+	filefolder = "model/"+cipher_name+"/LBAS/"
+	if not os.path.isdir(filefolder):
+		os.makedirs(filefolder)
+	filefolder = "model/"+cipher_name+"/"+str(goal)+"/"
+	if not os.path.isdir(filefolder):
+		os.makedirs(filefolder)
+	filefolder = "result/"+cipher_name+"/"+str(goal)+"/"
+	if not os.path.isdir(filefolder):
+		os.makedirs(filefolder)
+	filefolder = "txt/"+cipher_name+"/"+goal+"/optimal_solution_of_submodel/"
+	if not os.path.isdir(filefolder):
+		os.makedirs(filefolder)
+
 def remove_file(filename):
 	if os.path.exists(filename):
 		os.remove(filename)
